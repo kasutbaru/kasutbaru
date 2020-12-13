@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide.xml" x-tvg-url="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide.xml"
  
-#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=hbbtv
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
  
-#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
  
-#EXTINF:-1 tvg-id="tv3" tvg-name="tv3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
 https://raw.githubusercontent.com/raizoML/new/main/freeview/tv3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="tv okey" tvg-name="tv okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-id="tv okey" tvg-name="tv okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv okey" tvg-name="tv okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY
 http://vp2p2s.my6868.cc/20394/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-id="rtmbes" tvg-name="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
@@ -49,13 +49,13 @@ https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.m
 #EXTINF:-1 tvg-id="parlimenrakyat" tvg-name="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewannegara.jpg", PARLIMENRAKYAT
 https://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="astro nick" tvg-name="astro nick" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO NICK
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", Nickelodeon HD
 http://vp2p2s.my6868.cc/20472/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-name="astro criket" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO CRICKET
 http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro arena" tvg-name="astro arena" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO ARENA
+#EXTINF:-1 tvg-id="Astro Arena HD" tvg-name="Astro Arena HD" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO ARENA HD
 http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO VASHANTHAM
@@ -64,22 +64,32 @@ http://vp2p2s.my6868.cc/20490/index.m3u8?auth_key=1598916881-2090652880-0-338285
 #EXTINF:-1 tvg-id="astro drama sangat" tvg-name="astro drama sangat" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO DRAMA SANGAT
 http://vp2p2s.my6868.cc/20423/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro go shop malay" tvg-name="astro go shop malay" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO SHOP MALAY
+#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Go Shop 118" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO SHOP 118
 http://vp2p2s.my6868.cc/20426/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro go shop malay" tvg-name="astro go shop malay" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO AOD
+#EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO AOD
 http://vp2p2s.my6868.cc/20419/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro aec" tvg-name="astro aec" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO AEC
+#EXTINF:-1 tvg-id="Astro AEC HD" tvg-name="Astro AEC HD" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO AEC
 http://vp2p2s.my6868.cc/20418/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro boo" tvg-name="astro boo" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO BOO
+#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-id="astro citra" tvg-name="astro citra" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO CITRA
+#EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO CITRA
 http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", Astro SuperSport HD
+http://vp2p2s.my6868.cc/20413/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", Astro SuperSport 2 HD
+http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", Astro SuperSport 3 HD
+http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", Astro SuperSport 4 HD
+http://vp2p2s.my6868.cc/20417/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 
