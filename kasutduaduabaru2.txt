@@ -76,6 +76,9 @@ http://vp2p2s.my6868.cc/20418/index.m3u8?auth_key=1598916881-2090652880-0-338285
 #EXTINF:-1 tvg-id="astro boo" tvg-name="astro boo" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 tvg-id="astro citra" tvg-name="astro citra" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", ASTRO CITRA
+http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
 
 
 
