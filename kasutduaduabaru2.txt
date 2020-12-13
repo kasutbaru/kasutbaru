@@ -52,6 +52,27 @@ https://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.
 #EXTINF:-1 tvg-id="astro nick" tvg-name="astro nick" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO NICK
 http://vp2p2s.my6868.cc/20472/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 tvg-id="astro cricket" tvg-name="astro criket" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO CRICKET
+http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro arena" tvg-name="astro arena" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO ARENA
+http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO VASHANTHAM
+http://vp2p2s.my6868.cc/20490/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro drama sangat" tvg-name="astro drama sangat" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO DRAMA SANGAT
+http://vp2p2s.my6868.cc/20423/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro go shop malay" tvg-name="astro go shop malay" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO SHOP MALAY
+http://vp2p2s.my6868.cc/20426/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro go shop malay" tvg-name="astro go shop malay" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO GO AOD
+http://vp2p2s.my6868.cc/20419/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="astro aec" tvg-name="astro aec" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", ASTRO AEC
+http://vp2p2s.my6868.cc/20418/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
 
 
 
