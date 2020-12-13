@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide.xml" x-tvg-url="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide.xml"
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide3.xml" x-tvg-url="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide3.xml"
  
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=hbbtv
@@ -90,6 +92,9 @@ http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-338285
 
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" group-title="MY" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Boo-designstyle-smoothie-m.png", Astro SuperSport 4 HD
 http://vp2p2s.my6868.cc/20417/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" group-title="MY" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F7%2F76%2FAstro_Ceria_%25282019%2529.png%2Frevision%2Flatest%2Fscale-to-width-down%2F340%3Fcb%3D20201018231230&imgrefurl=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FAstro_Ceria&tbnid=Wc82k4th3Yg4tM&vet=12ahUKEwj0noeXpsvtAhUskksFHQueB_QQMygAegUIARCiAQ..i&docid=YV9HnOie7iUheM&w=340&h=168&q=astro%20ceria%20hd%20logo%20png&ved=2ahUKEwj0noeXpsvtAhUskksFHQueB_QQMygAegUIARCiAQ", Astro Ceria HD
+http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 
