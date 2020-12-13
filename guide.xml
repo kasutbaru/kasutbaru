@@ -2,66 +2,66 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TV1">
     <display-name lang="en">TV1</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV2">
     <display-name lang="en">TV2</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV3">
     <display-name lang="en">TV3</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Astro Citra">
-    <display-name lang="en">Astro Citra</display-name>
-    <url>http://www.astro.com.my.E</url>
+  <channel id="Astro Citra HD">
+    <display-name lang="en">Astro Citra HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Astro Ria">
-    <display-name lang="en">Astro Ria</display-name>
-    <url>http://www.astro.com.my.E</url>
+  <channel id="Astro Ria HD">
+    <display-name lang="en">Astro Ria HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Astro Prima">
-    <display-name lang="en">Astro Prima</display-name>
-    <url>http://www.astro.com.my.E</url>
+  <channel id="Astro Prima HD">
+    <display-name lang="en">Astro Prima HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Astro Oasis">
-    <display-name lang="en">Astro Oasis</display-name>
-    <url>http://www.astro.com.my.E</url>
+  <channel id="Astro Oasis HD">
+    <display-name lang="en">Astro Oasis HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Astro Warna">
-    <display-name lang="en">Astro Warna</display-name>
-    <url>http://www.astro.com.my.E</url>
+  <channel id="Astro Warna HD">
+    <display-name lang="en">Astro Warna HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV Okey">
     <display-name lang="en">TV Okey</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro AEC HD">
     <display-name lang="en">Astro AEC HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="BOO HD">
     <display-name lang="en">BOO HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro SuperSport HD">
     <display-name lang="en">Astro SuperSport HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro SuperSport 2 HD">
     <display-name lang="en">Astro SuperSport 2 HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro SuperSport 3 HD">
     <display-name lang="en">Astro SuperSport 3 HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro SuperSport 4 HD">
     <display-name lang="en">Astro SuperSport 4 HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Astro Cricket HD">
     <display-name lang="en">Astro Cricket HD</display-name>
-    <url>http://www.astro.com.my.E</url>
+    <url>http://www.astro.com.my</url>
   </channel>
 </tv>
