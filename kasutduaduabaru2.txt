@@ -97,6 +97,9 @@ http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-338285
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" group-title="MY" tvg-logo="https://banner2.cleanpng.com/20180721/hwk/kisspng-logo-sony-six-television-channel-sony-ten-sony-ent-kri8it-defining-digital-5b53149a343950.9239395615321714182139.jpg", SONY SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="SONY MOVIE HD" tvg-name="SONY MOVIE HD" group-title="MY" tvg-logo="https://banner2.cleanpng.com/20180721/hwk/kisspng-logo-sony-six-television-channel-sony-ten-sony-ent-kri8it-defining-digital-5b53149a343950.9239395615321714182139.jpg", SONY MOVIE HD
+http://51.52.156.22:8888/http/009
+
 
 
 
