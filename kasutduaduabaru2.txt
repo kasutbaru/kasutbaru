@@ -100,6 +100,9 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIE HD" tvg-name="SONY MOVIE HD" group-title="MY" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png", SONY MOVIE HD
 http://51.52.156.22:8888/http/009
 
+#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONEHD" group-title="MY" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/one-1-logo-svg-vector.svg", ONE HD
+http://vp2p2s.my6868.cc/20475/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
 
 
 
