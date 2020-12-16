@@ -109,8 +109,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://moviesreview101.files.wordpress.com/2020/11/army-of-one.png?w=499" subtitles="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Army.Of.One.2020.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.srt", ARMY OF ONE
 https://fr9.seedr.cc/ff_get/805101868/Army.of.One.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=GgfdlTX69KpSuARtJjMmyg&e=1608182626
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://moviesreview101.files.wordpress.com/2020/11/army-of-one.png?w=499" subtitles="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Army.Of.One.2020.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.srt", ARMY OF ONE
+#EXTINF:-1 tvg-logo="https://moviesreview101.files.wordpress.com/2020/11/army-of-one.png?w=499" subtitles="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Army.Of.One.2020.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.srt", ARMY OF ONE
 https://fr9.seedr.cc/ff_get/805101868/Army.of.One.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=GgfdlTX69KpSuARtJjMmyg&e=1608182626
 
 
