@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide.xml", "https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/guide3.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/raizoML/new/main/epg/guide.xml" x-tvg-url="https://raw.githubusercontent.com/raizoML/new/main/epg/guide.xml"
  
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
