@@ -23,7 +23,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY
-http://vp2p2s.my6868.cc/20394/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20394/AF.m3u8
 
 #EXTINF:-1 tvg-id="rtmbes" tvg-name="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -89,13 +89,13 @@ http://vp2p2s.my6868.cc/20413/AF.m3u8
 http://vp2p2s.my6868.cc/20415/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", Astro SuperSport 3 HD
-http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20415/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748", Astro SuperSport 4 HD
-http://vp2p2s.my6868.cc/20417/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20417/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/631.png/revision/latest/scale-to-width-down/340?cb=20200907104538", Astro Ceria HD
-http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20494/AF.m3u8
 
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" group-title="MY" tvg-logo="https://banner2.cleanpng.com/20180721/hwk/kisspng-logo-sony-six-television-channel-sony-ten-sony-ent-kri8it-defining-digital-5b53149a343950.9239395615321714182139.jpg", SONY SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
@@ -104,7 +104,7 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE HD
-http://vp2p2s.my6868.cc/20475/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20475/AF.m3u8
 
 #EXTINF:-1 tvg-id="CHANNEL C" tvg-name="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
