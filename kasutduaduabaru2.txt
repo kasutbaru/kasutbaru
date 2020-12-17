@@ -80,13 +80,13 @@ http://vp2p2s.my6868.cc/20418/index.m3u8?auth_key=1598916881-2090652880-0-338285
 http://vp2p2s.my6868.cc/20420/04.m3u8
 
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", DASH
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/dash/HBOHits.html
+https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/dash/HBOHits.mpd
 
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", SHAKA
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/shaka/HBOHits.html
+https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/shaka/HBOHits.manifest.mpd
 
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", CLAPPR
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/clappr/HBOHits.html
+https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/clappr/HBOHits.manifest.mpd
 
 #EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA
 http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
