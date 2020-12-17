@@ -2,7 +2,7 @@
  
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=hbbtv
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
  
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
@@ -11,88 +11,88 @@ https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
  
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
 https://raw.githubusercontent.com/raizoML/new/main/freeview/tv3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY
-http://vp2p2s.my6868.cc/20394/AF.m3u8
+http://vp2p2s.my6868.cc/20394/dash.m3u8
 
 #EXTINF:-1 tvg-id="rtmbes" tvg-name="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/dash.m3u8
 
 #EXTINF:-1 tvg-id="rtmbes" tvg-name="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player Logo - RTM Sports Mac 20 - WhiteBG.jpg", RTMSPORTS
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
 
 #EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player Logo - RTM Sports Mac 20 - WhiteBG.jpg", RTMSPORTS
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="parlimenrakyat" tvg-name="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewanrakyat.jpg", PARLIMENRAKYAT
-https://parlimenrakyathbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
+https://parlimenrakyathbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/dash.m3u8
 
 #EXTINF:-1 tvg-id="parlimenrakyat" tvg-name="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewanrakyat.jpg", PARLIMENRAKYAT
 https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="parlimenrakyat" tvg-name="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewannegara.jpg", PARLIMENRAKYAT
-https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
+https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/dash.m3u8
 
 #EXTINF:-1 tvg-id="parlimenrakyat" tvg-name="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewannegara.jpg", PARLIMENRAKYAT
 https://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", Nickelodeon HD
-http://vp2p2s.my6868.cc/20472/AF.m3u8
+http://vp2p2s.my6868.cc/20472/dash.m3u8
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-name="astro criket" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest/scale-to-width-down/340?cb=20200527073450", ASTRO CRICKET
-http://vp2p2s.my6868.cc/20470/AF.m3u8
+http://vp2p2s.my6868.cc/20470/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro Arena HD" tvg-name="Astro Arena HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest/scale-to-width-down/340?cb=20180622080600", ASTRO ARENA HD
-http://vp2p2s.my6868.cc/20470/AF.m3u8
+http://vp2p2s.my6868.cc/20470/dash.m3u8
 
 #EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO VASHANTHAM
-http://vp2p2s.my6868.cc/20490/AF.m3u8
+http://vp2p2s.my6868.cc/20490/dash.m3u8
 
 #EXTINF:-1 tvg-id="astro drama sangat" tvg-name="astro drama sangat" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT
-http://vp2p2s.my6868.cc/20423/AF.m3u8
+http://vp2p2s.my6868.cc/20423/dash.m3u8
 
 #EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP 118
-http://vp2p2s.my6868.cc/20426/AF.m3u8
+http://vp2p2s.my6868.cc/20426/dash.m3u8
 
 #EXTINF:-1 tvg-id="Go Shop Ruuma" tvg-name="Go Shop Ruuma" group-title="MY" tvg-logo="https://www.goshop.com.my/static/icons/favicon.ico", ASTRO GO SHOP RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO AOD" tvg-name="ASTRO AOD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
-http://vp2p2s.my6868.cc/20419/AF.m3u8
+http://vp2p2s.my6868.cc/20419/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro AEC HD" tvg-name="Astro AEC HD" group-title="MY" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
-http://vp2p2s.my6868.cc/20418/AF.m3u8
+http://vp2p2s.my6868.cc/20418/dash.m3u8
 
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO HD 2
 http://vp2p2s.my6868.cc/20420/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA
-http://vp2p2s.my6868.cc/20425/AF.m3u8
+http://vp2p2s.my6868.cc/20425/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357", Astro SuperSport HD
-http://vp2p2s.my6868.cc/20413/AF.m3u8
+http://vp2p2s.my6868.cc/20413/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/812_HD.png/revision/latest/top-crop/width/220/height/220?cb=20200520222635", Astro SuperSport 2 HD
-http://vp2p2s.my6868.cc/20415/AF.m3u8
+http://vp2p2s.my6868.cc/20415/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", Astro SuperSport 3 HD
-http://vp2p2s.my6868.cc/20415/AF.m3u8
+http://vp2p2s.my6868.cc/20415/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748", Astro SuperSport 4 HD
-http://vp2p2s.my6868.cc/20417/AF.m3u8
+http://vp2p2s.my6868.cc/20417/dash.m3u8
 
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/631.png/revision/latest/scale-to-width-down/340?cb=20200907104538", Astro Ceria HD
 http://vp2p2s.my6868.cc/20494/dash.m3u8
@@ -104,7 +104,7 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE HD
-http://vp2p2s.my6868.cc/20475/AF.m3u8
+http://vp2p2s.my6868.cc/20475/dash.m3u8
 
 #EXTINF:-1 tvg-id="CHANNEL C" tvg-name="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -253,12 +253,12 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/8.m3u8
  
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
 #https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
  
 #EXTINF:-1 tvg-id="tv2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
 #https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
  
@@ -281,7 +281,7 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/4.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/5.m3u8
  
 #EXTINF:-1 tvg-id="okey" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MY",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
 #https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
  
 #EXTINF:-1 tvg-id="naura" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MY",Naura
@@ -482,7 +482,7 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="beritartm" tvg-name="Astro Awani" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-chno="59" channel-id="59" group-title="NEWS",Berita RTM
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/dash.m3u8
  
 #EXTINF:-1 tvg-id="awani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="NEWS",Astro Awani
 https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
@@ -523,7 +523,7 @@ https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/ma
 
 
 #EXTINF:-1 tvg-id="rtms" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="SPORTS",RTM Sports HD
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
 #https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
  
 #EXTINF:-1 tvg-id="arena" tvg-name="Arena.id" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png", Astro Arena
