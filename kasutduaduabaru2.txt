@@ -50,52 +50,43 @@ https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.m
 https://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" group-title="MY" tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/1/17/Nickelodeon_logo.png/revision/latest/top-crop/width/360/height/450?cb=20180825204347", Nickelodeon HD
-http://vp2p2s.my6868.cc/20472/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20472/AF.m3u8
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-name="astro criket" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest/scale-to-width-down/340?cb=20200527073450", ASTRO CRICKET
-http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20470/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro Arena HD" tvg-name="Astro Arena HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest/scale-to-width-down/340?cb=20180622080600", ASTRO ARENA HD
-http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20470/AF.m3u8
 
 #EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO VASHANTHAM
-http://vp2p2s.my6868.cc/20490/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20490/AF.m3u8
 
 #EXTINF:-1 tvg-id="astro drama sangat" tvg-name="astro drama sangat" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT
-http://vp2p2s.my6868.cc/20423/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20423/AF.m3u8
 
 #EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP 118
-http://vp2p2s.my6868.cc/20426/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20426/AF.m3u8
 
 #EXTINF:-1 tvg-id="Go Shop Ruuma" tvg-name="Go Shop Ruuma" group-title="MY" tvg-logo="https://www.goshop.com.my/static/icons/favicon.ico", ASTRO GO SHOP RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO AOD" tvg-name="ASTRO AOD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
-http://vp2p2s.my6868.cc/20419/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20419/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro AEC HD" tvg-name="Astro AEC HD" group-title="MY" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
-http://vp2p2s.my6868.cc/20418/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20418/AF.m3u8
 
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/04.m3u8
 
-#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", DASH
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/dash/HBOHits.mpd
-
-#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", SHAKA
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/shaka/HBOHits.manifest.mpd
-
-#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", CLAPPR
-https://yqzeizsqdiuls9cdcbt7bq-on.drv.tw/MNC/clappr/HBOHits.manifest.mpd
-
 #EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA
-http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20425/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357", Astro SuperSport HD
-http://vp2p2s.my6868.cc/20413/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20413/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/812_HD.png/revision/latest/top-crop/width/220/height/220?cb=20200520222635", Astro SuperSport 2 HD
-http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://vp2p2s.my6868.cc/20415/AF.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", Astro SuperSport 3 HD
 http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
