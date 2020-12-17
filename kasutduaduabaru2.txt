@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/tv3.m3u8|Referer=htt
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
+
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY
