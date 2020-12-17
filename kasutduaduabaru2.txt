@@ -61,6 +61,18 @@ http://vp2p2s.my6868.cc/20470/dash.m3u8
 #EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO VASHANTHAM
 http://vp2p2s.my6868.cc/20490/dash.m3u8
 
+#EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO ?1
+http://vp2p2s.my6868.cc/20411/dash.m3u8
+
+#EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO ?2
+http://vp2p2s.my6868.cc/20410/dash.m3u8
+
+#EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO ?3
+http://vp2p2s.my6868.cc/20409/dash.m3u8
+
+#EXTINF:-1 tvg-id="astro vashantham" tvg-name="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO ?4
+http://vp2p2s.my6868.cc/20408/dash.m3u8
+
 #EXTINF:-1 tvg-id="astro drama sangat" tvg-name="astro drama sangat" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT
 http://vp2p2s.my6868.cc/20423/dash.m3u8
 
