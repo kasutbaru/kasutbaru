@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_03.m3u8
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_dash.m3u8
 
 
 
