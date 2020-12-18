@@ -13,7 +13,7 @@ https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
 
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", NTV7
+#EXTINF:-1 tvg-id="Ntv7" tvg-name="Ntv7" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", NTV7
 https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Ntv7%20github.m3u8
  
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
