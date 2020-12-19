@@ -3,6 +3,10 @@
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=hbbtv
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
+
+#EXTINF:-1 xmltv-id="RCTI" tvg-id="RCTI" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=mpd
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI-avc1_2499968=10-1883106560000000.mp4
  
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
