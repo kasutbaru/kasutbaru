@@ -3,10 +3,6 @@
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=hbbtv
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
-
-#EXTINF:-1 xmltv-id="RCTI" tvg-id="RCTI" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",RCTI
-#KODIPROP:inputstream.adaptive.license_type=mpd
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI-avc1_2499968=10-1883106560000000.mp4
  
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
@@ -83,6 +79,9 @@ http://vp2p2s.my6868.cc/20408/dash.m3u8
 #EXTINF:-1 xmltv-id="astro drama sangat" tvg-id="astro drama sangat" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT
 http://vp2p2s.my6868.cc/20423/dash.m3u8
 
+#EXTINF:-1 xmltv-id="astro drama sangat" tvg-id="astro drama sangat" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/169
+
 #EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP 118
 http://vp2p2s.my6868.cc/20426/dash.m3u8
 
@@ -98,8 +97,23 @@ http://vp2p2s.my6868.cc/20418/dash.m3u8
 #EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO HD 2
 http://vp2p2s.my6868.cc/20420/dash.m3u8
 
+#EXTINF:-1 xmltv-id="hello" tvg-id="HELLO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MY",Hello
+http://tv.wakds.xyz:8080/tangyuan/12345678/171
+
+#EXTINF:-1 xmltv-id="ASTRO GAAYA" tvg-id="ASTRO GAAYA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MY",ASTRO GAAYA
+http://tv.wakds.xyz:8080/tangyuan/12345678/172
+
+#EXTINF:-1 xmltv-id="ASTRO GO SHOP" tvg-id="ASTRO GO SHOP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MY",ASTRO GO SHOP
+http://tv.wakds.xyz:8080/tangyuan/12345678/173
+
+#EXTINF:-1 xmltv-id="naura" tvg-id="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MY",Naura
+http://tv.wakds.xyz:8080/tangyuan/12345678/170
+
 #EXTINF:-1 xmltv-id="Astro Citra" tvg-id="Astro Citra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA
 http://vp2p2s.my6868.cc/20425/dash.m3u8
+
+#EXTINF:-1 xmltv-id="Astro Citra" tvg-id="Astro Citra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/168
 
 #EXTINF:-1 xmltv-id="Astro SuperSport HD" tvg-id="Astro SuperSport HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357", Astro SuperSport HD
 http://vp2p2s.my6868.cc/20413/dash.m3u8
@@ -124,6 +138,24 @@ http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE HD
 http://vp2p2s.my6868.cc/20475/dash.m3u8
+
+#EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE HD 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/174
+
+#EXTINF:-1 xmltv-id="KBS WORLD" tvg-id="KBS WORLD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", KBS WORLD
+http://tv.wakds.xyz:8080/tangyuan/12345678/175
+
+#EXTINF:-1 xmltv-id="TVN" tvg-id="TVN" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", TVN 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/176
+
+#EXTINF:-1 xmltv-id="OHK" tvg-id="OHK" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",OHK 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/177
+
+#EXTINF:-1 xmltv-id="CCM" tvg-id="CCM" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",CCM 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/179
+
+#EXTINF:-1 xmltv-id="ASTRO WARNA" tvg-id="ASTRO.WARNA" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO WARNA 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/180
 
 #EXTINF:-1 xmltv-id="CHANNEL C" tvg-id="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
