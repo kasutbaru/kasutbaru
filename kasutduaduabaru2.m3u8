@@ -154,7 +154,7 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/177
 #EXTINF:-1 xmltv-id="CCM" tvg-id="CCM" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",CCM 2
 http://tv.wakds.xyz:8080/tangyuan/12345678/179
 
-#EXTINF:-1 xmltv-id="ASTRO WARNA" tvg-id="ASTRO.WARNA" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO WARNA 2
+#EXTINF:-1 xmltv-id="ASTRO WARNA HD" tvg-id="ASTRO.WARNA HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO WARNA HD 2
 http://tv.wakds.xyz:8080/tangyuan/12345678/180
 
 #EXTINF:-1 xmltv-id="CHANNEL C" tvg-id="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
