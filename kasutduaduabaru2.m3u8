@@ -160,7 +160,7 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/180
 #EXTINF:-1 xmltv-id="ASTRO RIA HD" tvg-id="ASTRO RIA HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO RIA HD 2
 http://tv.wakds.xyz:8080/tangyuan/12345678/181
 
-#EXTINF:-1 xmltv-id="ASTRO RIA HD" tvg-id="ASTRO RIA HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO RIA HD 2
+#EXTINF:-1 xmltv-id="ASTRO RIA HD" tvg-id="ASTRO RIA HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO RIA HD 1
 http://vp2p2s.my6868.cc/20421/dash.m3u8
 
 #EXTINF:-1 xmltv-id="CHANNEL C" tvg-id="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
