@@ -157,10 +157,10 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/179
 #EXTINF:-1 xmltv-id="ASTRO WARNA HD" tvg-id="ASTRO WARNA HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO WARNA HD 2
 http://tv.wakds.xyz:8080/tangyuan/12345678/180
 
-#EXTINF:-1 xmltv-id="Astro Ria" tvg-id="Astro Ria" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Astro Ria 2
+#EXTINF:-1 xmltv-id="Astro Ria" tvg-id="Astro Ria" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Astro Ria
 http://tv.wakds.xyz:8080/tangyuan/12345678/181
 
-#EXTINF:-1 xmltv-id="Astro Ria" tvg-id="Astro Ria" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Astro Ria 1
+#EXTINF:-1 xmltv-id="Astro Ria" tvg-id="Astro Ria" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Astro Ria
 http://vp2p2s.my6868.cc/20421/dash.m3u8
 
 #EXTINF:-1 xmltv-id="CHANNEL C" tvg-id="CHANNEL C" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", CHANNEL C
